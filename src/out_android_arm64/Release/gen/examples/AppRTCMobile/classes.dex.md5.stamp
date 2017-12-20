@@ -1,0 +1,283 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.1/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/examples/AppRTCMobile/classes.dex"
+  ], 
+  "files-md5": "215e6f910fce6c2f85d8262108fa1dbf", 
+  "input-files": [
+    {
+      "path": "gen/examples/AppRTCMobile/AppRTCMobile.dex.jar", 
+      "tag": "386cc9aa212c717b6e625aa3a8f0209c", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4266961066
+        }, 
+        {
+          "path": "classes.dex", 
+          "tag": 783054265
+        }
+      ]
+    }, 
+    {
+      "path": "gen/third_party/bazel/desugar/desugar_runtime_java.dex.jar", 
+      "tag": "86f4dddeed1d3f3e86ca8f4b9d3e8db4", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3799223704
+        }, 
+        {
+          "path": "classes.dex", 
+          "tag": 2900412047
+        }
+      ]
+    }, 
+    {
+      "path": "gen/build/android/buildhooks/build_hooks_android_java.dex.jar", 
+      "tag": "9171a49af4a3fc62932a7a3638cb9a55", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4266961066
+        }, 
+        {
+          "path": "classes.dex", 
+          "tag": 1697492771
+        }
+      ]
+    }, 
+    {
+      "path": "gen/rtc_base/base_java.dex.jar", 
+      "tag": "fa09da2e6e357979608bf23eb604a68c", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4266961066
+        }, 
+        {
+          "path": "classes.dex", 
+          "tag": 3992027116
+        }
+      ]
+    }, 
+    {
+      "path": "gen/build/android/buildhooks/build_hooks_java.dex.jar", 
+      "tag": "16eb1a8ee008fb5506e1332937f90802", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4266961066
+        }, 
+        {
+          "path": "classes.dex", 
+          "tag": 1575228430
+        }
+      ]
+    }, 
+    {
+      "path": "gen/third_party/jsr-305/jsr_305_javalib.dex.jar", 
+      "tag": "3b97c24374d38cd6a9c93fa65b0e3122", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4266961066
+        }, 
+        {
+          "path": "classes.dex", 
+          "tag": 3249276028
+        }
+      ]
+    }, 
+    {
+      "path": "gen/modules/audio_device/audio_device_java.dex.jar", 
+      "tag": "8253ba706e333e882adceda4921c6e8f", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4266961066
+        }, 
+        {
+          "path": "classes.dex", 
+          "tag": 1029536162
+        }
+      ]
+    }, 
+    {
+      "path": "gen/examples/androidapp/third_party/autobanh/autobanh_java.dex.jar", 
+      "tag": "f4903ed79deca02ee410e5da911091b2", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4266961066
+        }, 
+        {
+          "path": "classes.dex", 
+          "tag": 2585294010
+        }
+      ]
+    }, 
+    {
+      "path": "gen/third_party/android_tools/support/android_support_annotations_java.dex.jar", 
+      "tag": "531c0316d0f8550098077f478f9a0520", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4266961066
+        }, 
+        {
+          "path": "classes.dex", 
+          "tag": 4028845661
+        }
+      ]
+    }, 
+    {
+      "path": "gen/third_party/android_tools/support/android_support_multidex_java__classes.dex.jar", 
+      "tag": "19fe2a2db77b690c74ae8fb92be52865", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3799223704
+        }, 
+        {
+          "path": ".readme", 
+          "tag": 2948204614
+        }, 
+        {
+          "path": "classes.dex", 
+          "tag": 1359255207
+        }
+      ]
+    }, 
+    {
+      "path": "gen/sdk/android/libjingle_peerconnection_java.dex.jar", 
+      "tag": "919b39ca44a1069ca63eeadb4b1d3d5b", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4266961066
+        }, 
+        {
+          "path": "classes.dex", 
+          "tag": 4041557523
+        }
+      ]
+    }, 
+    {
+      "path": "gen/sdk/android/libjingle_peerconnection_metrics_default_java.dex.jar", 
+      "tag": "93e6a52004c0d7b6b7987c43249dcedf", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4266961066
+        }, 
+        {
+          "path": "classes.dex", 
+          "tag": 810194284
+        }
+      ]
+    }, 
+    {
+      "path": "gen/examples/AppRTCMobile_javalib.dex.jar", 
+      "tag": "006fe0f49ce365eedcba58f03dda05f9", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4266961066
+        }, 
+        {
+          "path": "classes.dex", 
+          "tag": 187299235
+        }
+      ]
+    }, 
+    {
+      "path": "gen/base/base_java.dex.jar", 
+      "tag": "3c1cd03c8339e8c153a1c4b02325cc28", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4266961066
+        }, 
+        {
+          "path": "classes.dex", 
+          "tag": 2968811685
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "a832fdc291775ef914ffae310cd4db4f"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "b9ab11af55856e0e938a8d4b18e88ec5"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "a5ae0b9a12e459caee036ba2b1d002ea"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "dbfebf36346ecf7631d1f11830ba8d33"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "a714107b2613fa9cbffd82d74e159f66"
+}

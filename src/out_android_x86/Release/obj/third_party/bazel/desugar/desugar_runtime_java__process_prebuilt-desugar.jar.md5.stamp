@@ -1,0 +1,45 @@
+{
+  "input-strings": [], 
+  "files-md5": "a60e5c8e9de34ae3558d4fe6cdb86370", 
+  "input-files": [
+    {
+      "path": "lib.java/android.interface.jar", 
+      "tag": "37b1210806e59ec1c8dc9fa500fa18a9"
+    }, 
+    {
+      "path": "../../third_party/bazel/desugar/Desugar-runtime.jar", 
+      "tag": "258dc302135474f98a82fb293de29923", 
+      "entries": [
+        {
+          "path": "com/google/devtools/build/android/desugar/runtime/ThrowableExtension$ConcurrentWeakIdentityHashMap$WeakKey.class", 
+          "tag": 3756590589
+        }, 
+        {
+          "path": "com/google/devtools/build/android/desugar/runtime/ThrowableExtension$ReuseDesugaringStrategy.class", 
+          "tag": 1988108305
+        }, 
+        {
+          "path": "com/google/devtools/build/android/desugar/runtime/ThrowableExtension.class", 
+          "tag": 1740799238
+        }, 
+        {
+          "path": "com/google/devtools/build/android/desugar/runtime/ThrowableExtension$ConcurrentWeakIdentityHashMap.class", 
+          "tag": 798733857
+        }, 
+        {
+          "path": "com/google/devtools/build/android/desugar/runtime/ThrowableExtension$AbstractDesugaringStrategy.class", 
+          "tag": 720619886
+        }, 
+        {
+          "path": "com/google/devtools/build/android/desugar/runtime/ThrowableExtension$MimicDesugaringStrategy.class", 
+          "tag": 1739230320
+        }, 
+        {
+          "path": "com/google/devtools/build/android/desugar/runtime/ThrowableExtension$NullDesugaringStrategy.class", 
+          "tag": 3330532161
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

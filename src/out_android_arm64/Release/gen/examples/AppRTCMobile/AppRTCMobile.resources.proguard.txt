@@ -1,0 +1,13 @@
+# view AndroidManifest.xml #generated:62
+-keep class org.appspot.apprtc.CallActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class org.appspot.apprtc.ConnectActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class org.appspot.apprtc.SettingsActivity { <init>(...); }
+
+# view res/layout/activity_call.xml #generated:12
+# view res/layout/activity_call.xml #generated:18
+-keep class org.webrtc.SurfaceViewRenderer { <init>(...); }
+

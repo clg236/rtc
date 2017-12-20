@@ -1,0 +1,524 @@
+{
+  "input-strings": [
+    "chromiumdebugkey", 
+    "chromium"
+  ], 
+  "files-md5": "1ed18fc82104b327efc0a26e554046c0", 
+  "input-files": [
+    {
+      "path": "gen/examples/AppRTCMobile/AppRTCMobile_unsigned.apk", 
+      "tag": "fcb30c4df63372152d46c2ccd54c5335", 
+      "entries": [
+        {
+          "path": "AndroidManifest.xml", 
+          "tag": 4222274758
+        }, 
+        {
+          "path": "classes.dex", 
+          "tag": 4033873007
+        }, 
+        {
+          "path": "lib/arm64-v8a/libjingle_peerconnection_so.so", 
+          "tag": 1660365176
+        }, 
+        {
+          "path": "res/drawable-hdpi-v4/disconnect.png", 
+          "tag": 3724735499
+        }, 
+        {
+          "path": "res/drawable-hdpi-v4/ic_action_full_screen.png", 
+          "tag": 3040168554
+        }, 
+        {
+          "path": "res/drawable-hdpi-v4/ic_action_return_from_full_screen.png", 
+          "tag": 1676519105
+        }, 
+        {
+          "path": "res/drawable-hdpi-v4/ic_launcher.png", 
+          "tag": 910497934
+        }, 
+        {
+          "path": "res/drawable-hdpi-v4/ic_loopback_call.png", 
+          "tag": 3556382093
+        }, 
+        {
+          "path": "res/drawable-ldpi-v4/disconnect.png", 
+          "tag": 3724735499
+        }, 
+        {
+          "path": "res/drawable-ldpi-v4/ic_action_full_screen.png", 
+          "tag": 2181876751
+        }, 
+        {
+          "path": "res/drawable-ldpi-v4/ic_action_return_from_full_screen.png", 
+          "tag": 2884710605
+        }, 
+        {
+          "path": "res/drawable-ldpi-v4/ic_launcher.png", 
+          "tag": 1902142361
+        }, 
+        {
+          "path": "res/drawable-ldpi-v4/ic_loopback_call.png", 
+          "tag": 3556382093
+        }, 
+        {
+          "path": "res/drawable-xhdpi-v4/disconnect.png", 
+          "tag": 3724735499
+        }, 
+        {
+          "path": "res/drawable-xhdpi-v4/ic_action_full_screen.png", 
+          "tag": 2695003524
+        }, 
+        {
+          "path": "res/drawable-xhdpi-v4/ic_action_return_from_full_screen.png", 
+          "tag": 1351101641
+        }, 
+        {
+          "path": "res/drawable-xhdpi-v4/ic_launcher.png", 
+          "tag": 2577861332
+        }, 
+        {
+          "path": "res/drawable-xhdpi-v4/ic_loopback_call.png", 
+          "tag": 3556382093
+        }, 
+        {
+          "path": "res/drawable/disconnect.png", 
+          "tag": 3724735499
+        }, 
+        {
+          "path": "res/drawable/ic_action_full_screen.png", 
+          "tag": 2181876751
+        }, 
+        {
+          "path": "res/drawable/ic_action_return_from_full_screen.png", 
+          "tag": 2884710605
+        }, 
+        {
+          "path": "res/drawable/ic_launcher.png", 
+          "tag": 740140902
+        }, 
+        {
+          "path": "res/drawable/ic_loopback_call.png", 
+          "tag": 3556382093
+        }, 
+        {
+          "path": "res/layout-v17/fragment_call.xml", 
+          "tag": 4155199218
+        }, 
+        {
+          "path": "res/layout-v17/fragment_hud.xml", 
+          "tag": 1766180596
+        }, 
+        {
+          "path": "res/layout/activity_call.xml", 
+          "tag": 247224509
+        }, 
+        {
+          "path": "res/layout/activity_connect.xml", 
+          "tag": 721981610
+        }, 
+        {
+          "path": "res/layout/fragment_call.xml", 
+          "tag": 1827476512
+        }, 
+        {
+          "path": "res/layout/fragment_hud.xml", 
+          "tag": 328928285
+        }, 
+        {
+          "path": "res/menu/connect_menu.xml", 
+          "tag": 64946019
+        }, 
+        {
+          "path": "res/xml/preferences.xml", 
+          "tag": 59229728
+        }, 
+        {
+          "path": "resources.arsc", 
+          "tag": 2077964773
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/chromium-debug.keystore", 
+      "tag": "26e2c67e8c378bce81c602308812d6b7"
+    }, 
+    {
+      "path": "../../build/android/binary_size/__init__.py", 
+      "tag": "c719614625bc4d4c41f6533c8976b7e5"
+    }, 
+    {
+      "path": "../../build/android/binary_size/apk_downloader.py", 
+      "tag": "ac5a6ec1ab4f6b83db4b76899ba5fbd4"
+    }, 
+    {
+      "path": "../../build/android/devil_chromium.py", 
+      "tag": "52449d643dcd18f41118099dee2212b2"
+    }, 
+    {
+      "path": "../../build/android/gyp/finalize_apk.py", 
+      "tag": "93135c8621fb407ceb9fc2821514e336"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "a832fdc291775ef914ffae310cd4db4f"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/method_count.py", 
+      "tag": "7669808a13f5c9130f9c093476f16658"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "b9ab11af55856e0e938a8d4b18e88ec5"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "a5ae0b9a12e459caee036ba2b1d002ea"
+    }, 
+    {
+      "path": "../../build/android/resource_sizes.py", 
+      "tag": "1697f8e8f0ebe8351d2dfddaafa45c14"
+    }, 
+    {
+      "path": "../../build/find_depot_tools.py", 
+      "tag": "88bf9394029d02995656fad5d87d13ff"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../build/util/lib/common/perf_result_data_type.py", 
+      "tag": "1827c6edb033770e88a5c3dd665385fe"
+    }, 
+    {
+      "path": "../../build/util/lib/common/perf_tests_results_helper.py", 
+      "tag": "53eeba2c131e5006d99a8781f4521d60"
+    }, 
+    {
+      "path": "../../third_party/apk-patch-size-estimator/apk_patch_size_estimator.py", 
+      "tag": "667a91165e673a1d982800e434242e1e"
+    }, 
+    {
+      "path": "../../third_party/catapult/common/py_utils/py_utils/__init__.py", 
+      "tag": "0fd9af409e6f1e806940f01aadee1cab"
+    }, 
+    {
+      "path": "../../third_party/catapult/common/py_utils/py_utils/cloud_storage.py", 
+      "tag": "0fb0d17ba8921ed90d0934211cbd214a"
+    }, 
+    {
+      "path": "../../third_party/catapult/common/py_utils/py_utils/cloud_storage_global_lock.py", 
+      "tag": "93b58bb67ce08606be79c7af2f31d0a2"
+    }, 
+    {
+      "path": "../../third_party/catapult/common/py_utils/py_utils/lock.py", 
+      "tag": "be1c5f66b7abd55c012b7e5bbc4727ee"
+    }, 
+    {
+      "path": "../../third_party/catapult/dependency_manager/dependency_manager/__init__.py", 
+      "tag": "6160ddd087faba4fa3587fbee4d0f893"
+    }, 
+    {
+      "path": "../../third_party/catapult/dependency_manager/dependency_manager/archive_info.py", 
+      "tag": "30d078e5fd692fcbfe7b20b2da42b310"
+    }, 
+    {
+      "path": "../../third_party/catapult/dependency_manager/dependency_manager/base_config.py", 
+      "tag": "2f7fde7b46b6c2caeba7a77a6e72e76a"
+    }, 
+    {
+      "path": "../../third_party/catapult/dependency_manager/dependency_manager/cloud_storage_info.py", 
+      "tag": "6f0007dde2333c2f7039c37af919422e"
+    }, 
+    {
+      "path": "../../third_party/catapult/dependency_manager/dependency_manager/dependency_info.py", 
+      "tag": "f290e95c33f45f6cdb3d5026ddd39ec0"
+    }, 
+    {
+      "path": "../../third_party/catapult/dependency_manager/dependency_manager/dependency_manager_util.py", 
+      "tag": "8f618b9ba872af107a1231337ec26871"
+    }, 
+    {
+      "path": "../../third_party/catapult/dependency_manager/dependency_manager/exceptions.py", 
+      "tag": "59a0772edee1dc2c24a05c335d29d301"
+    }, 
+    {
+      "path": "../../third_party/catapult/dependency_manager/dependency_manager/local_path_info.py", 
+      "tag": "5321ca360f9369151b775f146e11b662"
+    }, 
+    {
+      "path": "../../third_party/catapult/dependency_manager/dependency_manager/manager.py", 
+      "tag": "e9e3161fc632cf7fe470c5ac2c7bd24b"
+    }, 
+    {
+      "path": "../../third_party/catapult/dependency_manager/dependency_manager/uploader.py", 
+      "tag": "b4ef4cc09ded4053717deba296fb221e"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/build_tools.py", 
+      "tag": "b8137c6bcfd4f05571becc83cbd5a8ad"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/dexdump.py", 
+      "tag": "dbf3f5d4c6a7403efdb9584520e9a277"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "dbfebf36346ecf7631d1f11830ba8d33"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/devil_env.py", 
+      "tag": "2552ae236cd2e14c163c2474e8597067"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/utils/__init__.py", 
+      "tag": "b22edf178af767fd46d686d7ab7a4eac"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/utils/cmd_helper.py", 
+      "tag": "af72399699e9cd263de519ce202e3bbe"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/utils/lazy/__init__.py", 
+      "tag": "ce68b25ef260909d388a6637a13af18b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/utils/lazy/weak_constant.py", 
+      "tag": "7e833d32ed83c7287d46f25428b4585f"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/utils/reraiser_thread.py", 
+      "tag": "31c5c99b1fb99804abdf653aeab01d9a"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/utils/timeout_retry.py", 
+      "tag": "57813a95281170d6bb39341f7966c530"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/utils/watchdog_timer.py", 
+      "tag": "26b71519688d4f31c059a9e7b4da1091"
+    }, 
+    {
+      "path": "../../third_party/catapult/third_party/zipfile/zipfile_2_7_13.py", 
+      "tag": "aefda9e69bc5ebd956f49792035fe4dd"
+    }, 
+    {
+      "path": "../../third_party/depot_tools/breakpad.py", 
+      "tag": "c590c779a260c325b9c7ce22f64ecbef"
+    }, 
+    {
+      "path": "../../third_party/depot_tools/download_from_google_storage.py", 
+      "tag": "f457e3d3ff06d63f24cbf5e45db3921d"
+    }, 
+    {
+      "path": "../../third_party/depot_tools/subprocess2.py", 
+      "tag": "437f4ca4e0ccd859d10e7e3e07c7eeb5"
+    }, 
+    {
+      "path": "../../third_party/depot_tools/upload_to_google_storage.py", 
+      "tag": "6bf90bfca1da413494890ebdf6957723"
+    }, 
+    {
+      "path": "../../tools/grit/grit/__init__.py", 
+      "tag": "66928217e79e23714d9e8fbda3454238"
+    }, 
+    {
+      "path": "../../tools/grit/grit/clique.py", 
+      "tag": "a6e9bc6b779e969f1c70c7a963453919"
+    }, 
+    {
+      "path": "../../tools/grit/grit/constants.py", 
+      "tag": "7362d13536ddb03d4cc218e47deac993"
+    }, 
+    {
+      "path": "../../tools/grit/grit/exception.py", 
+      "tag": "bb953821e758720425cda7d98ed5f09d"
+    }, 
+    {
+      "path": "../../tools/grit/grit/extern/FP.py", 
+      "tag": "a39cc18ec5bbcdebdd46ac3d966fd094"
+    }, 
+    {
+      "path": "../../tools/grit/grit/extern/__init__.py", 
+      "tag": "d41d8cd98f00b204e9800998ecf8427e"
+    }, 
+    {
+      "path": "../../tools/grit/grit/extern/tclib.py", 
+      "tag": "3ddae4807341395bab371e73db0a9284"
+    }, 
+    {
+      "path": "../../tools/grit/grit/format/__init__.py", 
+      "tag": "6de00a2a22111dfe4689945019483dc2"
+    }, 
+    {
+      "path": "../../tools/grit/grit/format/data_pack.py", 
+      "tag": "be16232dca211dcd1e5db831ee30c2f3"
+    }, 
+    {
+      "path": "../../tools/grit/grit/format/gzip_string.py", 
+      "tag": "424b0be9ecc9e97ac01eccff9627cbee"
+    }, 
+    {
+      "path": "../../tools/grit/grit/format/html_inline.py", 
+      "tag": "ce88470310cf2ca45d67f0dc9dd2cdbd"
+    }, 
+    {
+      "path": "../../tools/grit/grit/format/minifier.py", 
+      "tag": "6028f8aad497eebb2d3607767d2aba15"
+    }, 
+    {
+      "path": "../../tools/grit/grit/format/rc.py", 
+      "tag": "761511579e3446968fb91982709175bf"
+    }, 
+    {
+      "path": "../../tools/grit/grit/format/rc_header.py", 
+      "tag": "6875b1a750ab374b6bd74a1f46a0011f"
+    }, 
+    {
+      "path": "../../tools/grit/grit/gather/__init__.py", 
+      "tag": "9ce6806263f769287191b0bd9ae84262"
+    }, 
+    {
+      "path": "../../tools/grit/grit/gather/admin_template.py", 
+      "tag": "d811d192293904402a9c09912af5c571"
+    }, 
+    {
+      "path": "../../tools/grit/grit/gather/chrome_html.py", 
+      "tag": "6d055e0c4ac943bc1a3a751f0c0258aa"
+    }, 
+    {
+      "path": "../../tools/grit/grit/gather/chrome_scaled_image.py", 
+      "tag": "ee8b8428fd4f7f550ae6924bb4950d32"
+    }, 
+    {
+      "path": "../../tools/grit/grit/gather/interface.py", 
+      "tag": "8d8973a8222e9bf2963ab720c9d39668"
+    }, 
+    {
+      "path": "../../tools/grit/grit/gather/policy_json.py", 
+      "tag": "501aec28ad799765597bc3b625507d74"
+    }, 
+    {
+      "path": "../../tools/grit/grit/gather/rc.py", 
+      "tag": "1ba1a187b932c004b55004ffe7cf97e7"
+    }, 
+    {
+      "path": "../../tools/grit/grit/gather/regexp.py", 
+      "tag": "edbd9b2ce579f5c8724e0c6ba7184e35"
+    }, 
+    {
+      "path": "../../tools/grit/grit/gather/skeleton_gatherer.py", 
+      "tag": "250d44259d9575aefa928179857fc55f"
+    }, 
+    {
+      "path": "../../tools/grit/grit/gather/tr_html.py", 
+      "tag": "ee1b1099f310bd6d0dd65230745b6975"
+    }, 
+    {
+      "path": "../../tools/grit/grit/gather/txt.py", 
+      "tag": "b5f87c5ccf8cc556a257a39005b89853"
+    }, 
+    {
+      "path": "../../tools/grit/grit/lazy_re.py", 
+      "tag": "96ad6b9997457ce830fb0e22ed605051"
+    }, 
+    {
+      "path": "../../tools/grit/grit/node/__init__.py", 
+      "tag": "b18d97dbd2ee97258c564ad99b6313a1"
+    }, 
+    {
+      "path": "../../tools/grit/grit/node/base.py", 
+      "tag": "eb9902ca778953cfca67915d29ad578e"
+    }, 
+    {
+      "path": "../../tools/grit/grit/node/include.py", 
+      "tag": "317fca7aea03b6229b27a8ae1b569725"
+    }, 
+    {
+      "path": "../../tools/grit/grit/node/io.py", 
+      "tag": "861ee5e2983b93d1db257b490aba0afd"
+    }, 
+    {
+      "path": "../../tools/grit/grit/node/message.py", 
+      "tag": "5a6252ee3e22fbfa1c90fe93a2bd9a8c"
+    }, 
+    {
+      "path": "../../tools/grit/grit/node/misc.py", 
+      "tag": "e46468d367cf0e43d88d31c2f55c2402"
+    }, 
+    {
+      "path": "../../tools/grit/grit/node/structure.py", 
+      "tag": "f007407f3fe912d08f2b1c945b34f700"
+    }, 
+    {
+      "path": "../../tools/grit/grit/node/variant.py", 
+      "tag": "977ef9686c8f3303ab61802061ca34c0"
+    }, 
+    {
+      "path": "../../tools/grit/grit/pseudo.py", 
+      "tag": "8cd3e14387ce598ce4be383530cc7d4d"
+    }, 
+    {
+      "path": "../../tools/grit/grit/pseudo_rtl.py", 
+      "tag": "703a29975cfd7e015d008c364421ccc0"
+    }, 
+    {
+      "path": "../../tools/grit/grit/tclib.py", 
+      "tag": "c0e29347be07587b46b1aabf07510424"
+    }, 
+    {
+      "path": "../../tools/grit/grit/util.py", 
+      "tag": "e800fb6204984f0b4b83b0f500af35d8"
+    }, 
+    {
+      "path": "../../tools/grit/grit/xtb_reader.py", 
+      "tag": "e869859b8492c5e47c3be06acaabec3b"
+    }
+  ], 
+  "strings-md5": "0490dcab972fa4c451eb463186a1f12c"
+}

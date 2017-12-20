@@ -1,0 +1,29 @@
+{
+  "input-strings": [], 
+  "files-md5": "199790b5d629acbd1b73e787e9b054b4", 
+  "input-files": [
+    {
+      "path": "lib.java/android.interface.jar", 
+      "tag": "37b1210806e59ec1c8dc9fa500fa18a9"
+    }, 
+    {
+      "path": "gen/build/android/buildhooks/build_hooks_android_java.javac.jar", 
+      "tag": "7df2e28eb8c4035bbc051d5a6a512b29", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4034090902
+        }, 
+        {
+          "path": "org/chromium/build/BuildHooksAndroidImpl.class", 
+          "tag": 1459332303
+        }, 
+        {
+          "path": "org/chromium/build/BuildHooksAndroid.class", 
+          "tag": 3773215935
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

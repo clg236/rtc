@@ -1,0 +1,77 @@
+{
+  "input-strings": [], 
+  "files-md5": "0e216e0e7aa47b49fc9e21183a690f0a", 
+  "input-files": [
+    {
+      "path": "lib.java/examples/AppRTCMobile_javalib.interface.jar", 
+      "tag": "e7981925bdd162d626a52394d80b3fb5"
+    }, 
+    {
+      "path": "lib.java/rtc_base/base_java.interface.jar", 
+      "tag": "5490e1b21f0bfe72a69767d036d1a77b"
+    }, 
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "8d7f7f5dbf8baf79dfc1aab1b33a535d"
+    }, 
+    {
+      "path": "lib.java/android.interface.jar", 
+      "tag": "37b1210806e59ec1c8dc9fa500fa18a9"
+    }, 
+    {
+      "path": "gen/examples/AppRTCMobile.javac.jar", 
+      "tag": "c1cd574ecbc3d44aa7250fa989a378fc", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4034090902
+        }, 
+        {
+          "path": "org/chromium/base/BuildConfig.class", 
+          "tag": 1916197430
+        }, 
+        {
+          "path": "org/chromium/base/library_loader/NativeLibraries.class", 
+          "tag": 2911183092
+        }, 
+        {
+          "path": "org/appspot/apprtc/R$xml.class", 
+          "tag": 2368512998
+        }, 
+        {
+          "path": "org/appspot/apprtc/R.class", 
+          "tag": 880904869
+        }, 
+        {
+          "path": "org/appspot/apprtc/R$id.class", 
+          "tag": 2504641692
+        }, 
+        {
+          "path": "org/appspot/apprtc/R$menu.class", 
+          "tag": 1091667919
+        }, 
+        {
+          "path": "org/appspot/apprtc/R$drawable.class", 
+          "tag": 1022796336
+        }, 
+        {
+          "path": "org/appspot/apprtc/R$style.class", 
+          "tag": 3984418235
+        }, 
+        {
+          "path": "org/appspot/apprtc/R$array.class", 
+          "tag": 250058662
+        }, 
+        {
+          "path": "org/appspot/apprtc/R$layout.class", 
+          "tag": 3580749598
+        }, 
+        {
+          "path": "org/appspot/apprtc/R$string.class", 
+          "tag": 3551211488
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

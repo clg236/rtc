@@ -1,0 +1,85 @@
+{
+  "input-strings": [], 
+  "files-md5": "98ac3abdb41b2257def785694148688c", 
+  "input-files": [
+    {
+      "path": "lib.java/android.interface.jar", 
+      "tag": "37b1210806e59ec1c8dc9fa500fa18a9"
+    }, 
+    {
+      "path": "gen/rtc_base/base_java.javac.jar", 
+      "tag": "dd268b701dad508b6ad298442ac624f4", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4034090902
+        }, 
+        {
+          "path": "org/webrtc/Size.class", 
+          "tag": 1410559392
+        }, 
+        {
+          "path": "org/webrtc/ThreadUtils$5.class", 
+          "tag": 422131402
+        }, 
+        {
+          "path": "org/webrtc/ThreadUtils$2.class", 
+          "tag": 3302404722
+        }, 
+        {
+          "path": "org/webrtc/ContextUtils.class", 
+          "tag": 1393094533
+        }, 
+        {
+          "path": "org/webrtc/ThreadUtils$ThreadChecker.class", 
+          "tag": 1173806025
+        }, 
+        {
+          "path": "org/webrtc/Logging$Severity.class", 
+          "tag": 676802381
+        }, 
+        {
+          "path": "org/webrtc/ThreadUtils$4.class", 
+          "tag": 2607553985
+        }, 
+        {
+          "path": "org/webrtc/ThreadUtils$1.class", 
+          "tag": 4124738845
+        }, 
+        {
+          "path": "org/webrtc/ThreadUtils$BlockingOperation.class", 
+          "tag": 1461468709
+        }, 
+        {
+          "path": "org/webrtc/Logging$TraceLevel.class", 
+          "tag": 2433551563
+        }, 
+        {
+          "path": "org/webrtc/ThreadUtils$1Result.class", 
+          "tag": 2453830161
+        }, 
+        {
+          "path": "org/webrtc/Logging.class", 
+          "tag": 211939733
+        }, 
+        {
+          "path": "org/webrtc/Logging$1.class", 
+          "tag": 1915536545
+        }, 
+        {
+          "path": "org/webrtc/ThreadUtils$3.class", 
+          "tag": 3832144255
+        }, 
+        {
+          "path": "org/webrtc/ThreadUtils.class", 
+          "tag": 2044985535
+        }, 
+        {
+          "path": "org/webrtc/ThreadUtils$1CaughtException.class", 
+          "tag": 456177356
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

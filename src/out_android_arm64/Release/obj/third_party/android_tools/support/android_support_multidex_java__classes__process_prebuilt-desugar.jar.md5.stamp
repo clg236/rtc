@@ -1,0 +1,73 @@
+{
+  "input-strings": [], 
+  "files-md5": "2b8cfef9222b791a3a6c87a3b21b37df", 
+  "input-files": [
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "806262bfc59f57f6204ec4f5613b5dd3"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "94c00ad91157907cfd770020d02f9b06"
+    }, 
+    {
+      "path": "lib.java/android.interface.jar", 
+      "tag": "37b1210806e59ec1c8dc9fa500fa18a9"
+    }, 
+    {
+      "path": "obj/third_party/android_tools/support/android_support_multidex_java__classes__process_prebuilt-bytecode-rewritten.jar", 
+      "tag": "7d05f050d12271b23264e69112f6cd03", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3993141178
+        }, 
+        {
+          "path": "android/support/multidex/BuildConfig.class", 
+          "tag": 3098914772
+        }, 
+        {
+          "path": "android/support/multidex/MultiDex$V14.class", 
+          "tag": 2626910174
+        }, 
+        {
+          "path": "android/support/multidex/MultiDex$V19.class", 
+          "tag": 3507887962
+        }, 
+        {
+          "path": "android/support/multidex/MultiDex$V4.class", 
+          "tag": 4083093436
+        }, 
+        {
+          "path": "android/support/multidex/MultiDex.class", 
+          "tag": 682677968
+        }, 
+        {
+          "path": "android/support/multidex/MultiDexApplication.class", 
+          "tag": 2131450319
+        }, 
+        {
+          "path": "android/support/multidex/MultiDexExtractor$1.class", 
+          "tag": 745621063
+        }, 
+        {
+          "path": "android/support/multidex/MultiDexExtractor.class", 
+          "tag": 2829804999
+        }, 
+        {
+          "path": "android/support/multidex/ZipUtil$CentralDirectory.class", 
+          "tag": 997693254
+        }, 
+        {
+          "path": "android/support/multidex/ZipUtil.class", 
+          "tag": 2473015480
+        }, 
+        {
+          "path": ".readme", 
+          "tag": 2948204614
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

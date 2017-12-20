@@ -1,0 +1,190 @@
+{
+  "input-strings": [
+    "True", 
+    "False", 
+    "26", 
+    "gen/modules/audio_device/audio_device_java__lint/config.xml"
+  ], 
+  "files-md5": "53e497fec85f77a5164766f5b4a0d515", 
+  "input-files": [
+    {
+      "path": "../../third_party/android_tools/sdk/tools-lint/bin/lint", 
+      "tag": "d8e1926e82aab449901db2fbe429366b"
+    }, 
+    {
+      "path": "../../third_party/android_tools/sdk/platform-tools/api/api-versions.xml", 
+      "tag": "703dabfc048124ac5605370bda886923"
+    }, 
+    {
+      "path": "../../tools_webrtc/android/suppressions.xml", 
+      "tag": "ed077039aeb5ec1c6735161de728e44a"
+    }, 
+    {
+      "path": "gen/modules/audio_device/audio_device_java.javac.jar", 
+      "tag": "fd2fd52d9b5e7289cd5c097c6bd09f4a", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4034090902
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioManager$VolumeLogger$LogVolumeTask.class", 
+          "tag": 304653551
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioTrack$ErrorCallback.class", 
+          "tag": 2430985042
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioRecord$WebRtcAudioRecordErrorCallback.class", 
+          "tag": 3923166899
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioTrack$AudioTrackStartErrorCode.class", 
+          "tag": 3313588549
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioRecord$AudioRecordThread.class", 
+          "tag": 3088671091
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioManager.class", 
+          "tag": 2554497631
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioRecord$AudioRecordStartErrorCode.class", 
+          "tag": 3230610243
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioUtils.class", 
+          "tag": 2088996683
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioTrack$WebRtcAudioTrackErrorCallback.class", 
+          "tag": 264673543
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioRecord.class", 
+          "tag": 3078733894
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioManager$VolumeLogger.class", 
+          "tag": 2952802137
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioTrack.class", 
+          "tag": 702093149
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/BuildInfo.class", 
+          "tag": 3627409253
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioEffects.class", 
+          "tag": 866356008
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioTrack$AudioTrackThread.class", 
+          "tag": 422265962
+        }
+      ]
+    }, 
+    {
+      "path": "../../modules/audio_device/android/java/src/org/webrtc/voiceengine/BuildInfo.java", 
+      "tag": "13176ec09f8ab9adb7f3ddb2a7320946"
+    }, 
+    {
+      "path": "../../modules/audio_device/android/java/src/org/webrtc/voiceengine/WebRtcAudioEffects.java", 
+      "tag": "a481612314b71bed3f032c9fdb4dce8c"
+    }, 
+    {
+      "path": "../../modules/audio_device/android/java/src/org/webrtc/voiceengine/WebRtcAudioManager.java", 
+      "tag": "2e667491d49e9f7a99bf3e273f8813b6"
+    }, 
+    {
+      "path": "../../modules/audio_device/android/java/src/org/webrtc/voiceengine/WebRtcAudioRecord.java", 
+      "tag": "77c821c30dd36901c97ea4fd604785cb"
+    }, 
+    {
+      "path": "../../modules/audio_device/android/java/src/org/webrtc/voiceengine/WebRtcAudioTrack.java", 
+      "tag": "1de3fef882646ce6030ad32ac9545713"
+    }, 
+    {
+      "path": "../../modules/audio_device/android/java/src/org/webrtc/voiceengine/WebRtcAudioUtils.java", 
+      "tag": "dcfb162a23043b75e57f2fd88daf671f"
+    }, 
+    {
+      "path": "lib.java/rtc_base/base_java.interface.jar", 
+      "tag": "5490e1b21f0bfe72a69767d036d1a77b"
+    }, 
+    {
+      "path": "../../build/android/gyp/lint.py", 
+      "tag": "1b0a55fb0b885725b5a7132120dd4c99"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "a832fdc291775ef914ffae310cd4db4f"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "b9ab11af55856e0e938a8d4b18e88ec5"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "a5ae0b9a12e459caee036ba2b1d002ea"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "dbfebf36346ecf7631d1f11830ba8d33"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "c1a988f124264c49d2121de9422b66be"
+}

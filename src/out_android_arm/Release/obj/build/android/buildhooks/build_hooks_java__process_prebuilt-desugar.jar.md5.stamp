@@ -1,0 +1,37 @@
+{
+  "input-strings": [], 
+  "files-md5": "bb5e5aadd7671648b345ee70a1606010", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/bazel/desugar/Desugar-runtime.interface.jar", 
+      "tag": "c7137514cb83624bf1343955209b5853"
+    }, 
+    {
+      "path": "lib.java/android.interface.jar", 
+      "tag": "37b1210806e59ec1c8dc9fa500fa18a9"
+    }, 
+    {
+      "path": "gen/build/android/buildhooks/build_hooks_java.javac.jar", 
+      "tag": "81f4b633c69ae773e0e24751a2da90fa", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4034090902
+        }, 
+        {
+          "path": "org/chromium/build/BuildHooksConfig.class", 
+          "tag": 1128867718
+        }, 
+        {
+          "path": "org/chromium/build/BuildHooks.class", 
+          "tag": 351011828
+        }, 
+        {
+          "path": "org/chromium/build/BuildHooks$ReportAssertionCallback.class", 
+          "tag": 651287851
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

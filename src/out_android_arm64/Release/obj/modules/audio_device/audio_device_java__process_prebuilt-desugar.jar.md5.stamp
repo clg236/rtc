@@ -1,0 +1,85 @@
+{
+  "input-strings": [], 
+  "files-md5": "ce7bf5a400f9d965e99082896ff94c77", 
+  "input-files": [
+    {
+      "path": "lib.java/rtc_base/base_java.interface.jar", 
+      "tag": "5490e1b21f0bfe72a69767d036d1a77b"
+    }, 
+    {
+      "path": "lib.java/android.interface.jar", 
+      "tag": "37b1210806e59ec1c8dc9fa500fa18a9"
+    }, 
+    {
+      "path": "gen/modules/audio_device/audio_device_java.javac.jar", 
+      "tag": "fd2fd52d9b5e7289cd5c097c6bd09f4a", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4034090902
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioManager$VolumeLogger$LogVolumeTask.class", 
+          "tag": 304653551
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioTrack$ErrorCallback.class", 
+          "tag": 2430985042
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioRecord$WebRtcAudioRecordErrorCallback.class", 
+          "tag": 3923166899
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioTrack$AudioTrackStartErrorCode.class", 
+          "tag": 3313588549
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioRecord$AudioRecordThread.class", 
+          "tag": 3088671091
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioManager.class", 
+          "tag": 2554497631
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioRecord$AudioRecordStartErrorCode.class", 
+          "tag": 3230610243
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioUtils.class", 
+          "tag": 2088996683
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioTrack$WebRtcAudioTrackErrorCallback.class", 
+          "tag": 264673543
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioRecord.class", 
+          "tag": 3078733894
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioManager$VolumeLogger.class", 
+          "tag": 2952802137
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioTrack.class", 
+          "tag": 702093149
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/BuildInfo.class", 
+          "tag": 3627409253
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioEffects.class", 
+          "tag": 866356008
+        }, 
+        {
+          "path": "org/webrtc/voiceengine/WebRtcAudioTrack$AudioTrackThread.class", 
+          "tag": 422265962
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}
